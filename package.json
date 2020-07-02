@@ -1,0 +1,58 @@
+{
+  "name": "error",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-firebase/analytics": "^7.1.6",
+    "@react-native-firebase/app": "^7.3.1",
+    "@react-native-firebase/auth": "^8.0.8",
+    "@react-native-firebase/firestore": "^7.2.2",
+    "@react-navigation/native": "^5.6.1",
+    "react": "16.11.0",
+    "react-firebase-hooks": "^2.2.0",
+    "react-native": "0.62.2",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-reanimated": "^2.0.0-alpha.3",
+    "react-native-svg": "^12.1.0",
+    "reflect-metadata": "^0.1.13",
+    "remove": "^0.1.5",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.3",
+    "@babel/core": "^7.10.3",
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "@babel/plugin-proposal-decorators": "^7.10.3",
+    "@babel/plugin-transform-flow-strip-types": "^7.10.1",
+    "@babel/runtime": "^7.10.3",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "@testing-library/react-native": "^5.0.3",
+    "@types/jest": "^26.0.3",
+    "@types/node": "^14.0.14",
+    "@types/react": "^16.9.41",
+    "@types/react-native": "^0.62.14",
+    "@types/react-test-renderer": "^16.9.2",
+    "@types/styled-components": "^5.1.0",
+    "babel-jest": "^26.1.0",
+    "babel-plugin-macros": "^2.8.0",
+    "eslint": "^7.3.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react-hooks": "^4.0.4",
+    "jest": "^26.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "semantic-release": "^17.1.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5",
+    "typescript-styled-plugin": "^0.15.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

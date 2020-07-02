@@ -1,0 +1,5 @@
+# Ignore quokka directory as it is used
+# as a playground
+quokka/
+*.json
+yarn.lock
