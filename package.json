@@ -19,7 +19,7 @@
     "react-firebase-hooks": "^2.2.0",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^2.0.0-alpha.4",
+    "react-native-reanimated": "^3.0.0-rc.1",
     "react-native-svg": "^12.1.0",
     "reflect-metadata": "^0.1.13",
     "remove": "^0.1.5",
